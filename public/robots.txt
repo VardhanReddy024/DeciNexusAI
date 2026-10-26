@@ -1,0 +1,5 @@
+# robots.txt for DeciNexusAI Coming Soon
+# Standard crawling directives preparing for January 2027 launch
+
+User-agent: *
+Allow: /
